@@ -17,5 +17,5 @@ wails dev -tags="webkit2_41"
 
 ## Build application 
 ```bash
-wails build -tags="webkit2_41"
+wails build -tags="webkit2_41" -o="quicksearch" -clean
 ```
