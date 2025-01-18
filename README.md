@@ -3,8 +3,8 @@ Basic scuffed quick search bar. That works somehow in ubuntu 24.04
 
 ## Required things
 - gtk-launch
-- golang
-- node
+- golang (1.21)
+- node (22.13)
 - https://wails.io/docs/gettingstarted/installation
 
 ## Links 
